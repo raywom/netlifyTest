@@ -11,7 +11,7 @@ module.exports = {
     {
       use: '@gridsome/source-graphql',
       options: {
-        url: (process.env.GRIDSOME_STRAPI_URL || "https://infallible-colden-f7e227.netlify.app") + "/graphql",
+        url: (process.env.GRIDSOME_STRAPI_URL || "https://nagima-site.herokuapp.com") + "/graphql",
         fieldName: 'strapi',
         typeName: 'strapiTypes'
       }

@@ -1,4 +1,4 @@
-import plugin_gridsome_plugin_tailwindcss_6 from "C:\\Users\\77029\\Documents\\GitHub\\heroku\\frontend\\node_modules\\gridsome-plugin-tailwindcss\\gridsome.client.js"
+import plugin_gridsome_plugin_tailwindcss_6 from "C:\\Users\\77029\\Documents\\GitHub\\zaebaLnetlify\\zaebaLnetlify\\node_modules\\gridsome-plugin-tailwindcss\\gridsome.client.js"
 
 export default [
   {

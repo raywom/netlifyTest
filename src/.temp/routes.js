@@ -1,7 +1,7 @@
-const c1 = () => import(/* webpackChunkName: "page--src-templates-project-vue" */ "C:\\Users\\77029\\Documents\\GitHub\\heroku\\frontend\\src\\templates\\Project.vue")
-const c2 = () => import(/* webpackChunkName: "page--src-pages-about-vue" */ "C:\\Users\\77029\\Documents\\GitHub\\heroku\\frontend\\src\\pages\\About.vue")
-const c3 = () => import(/* webpackChunkName: "page--node-modules-gridsome-app-pages-404-vue" */ "C:\\Users\\77029\\Documents\\GitHub\\heroku\\frontend\\node_modules\\gridsome\\app\\pages\\404.vue")
-const c4 = () => import(/* webpackChunkName: "page--src-pages-index-vue" */ "C:\\Users\\77029\\Documents\\GitHub\\heroku\\frontend\\src\\pages\\Index.vue")
+const c1 = () => import(/* webpackChunkName: "page--src-templates-project-vue" */ "C:\\Users\\77029\\Documents\\GitHub\\zaebaLnetlify\\zaebaLnetlify\\src\\templates\\Project.vue")
+const c2 = () => import(/* webpackChunkName: "page--src-pages-about-vue" */ "C:\\Users\\77029\\Documents\\GitHub\\zaebaLnetlify\\zaebaLnetlify\\src\\pages\\About.vue")
+const c3 = () => import(/* webpackChunkName: "page--node-modules-gridsome-app-pages-404-vue" */ "C:\\Users\\77029\\Documents\\GitHub\\zaebaLnetlify\\zaebaLnetlify\\node_modules\\gridsome\\app\\pages\\404.vue")
+const c4 = () => import(/* webpackChunkName: "page--src-pages-index-vue" */ "C:\\Users\\77029\\Documents\\GitHub\\zaebaLnetlify\\zaebaLnetlify\\src\\pages\\Index.vue")
 
 export default [
   {
