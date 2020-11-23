@@ -8,7 +8,7 @@
       <h2
         class="text-2xl uppercase text-gray-600 mb-6 mt-16 tracking-wide font-semibold"
       >
-        My latest projects
+        Мои проекты
       </h2>
     </div>
     <!-- List of project preview cards -->
